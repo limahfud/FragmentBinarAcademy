@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pertemuan8</string>
+    <string name="title_activity_second">AcitivityDua</string>
+    <string name="name">Nama</string>
+    <string name="email">Surel</string>
+    <string name="address">Alamat</string>
+    <string name="submit">Kirim</string>
+    <string name="show_snackbar">Tampilkan Snackbar</string>
+    <string name="show_toast">Tampilkan Toast</string>
+    <string name="show_alert">Tampilkan Peringatan</string>
+</resources>
